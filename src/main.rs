@@ -3,7 +3,7 @@ fn main() {
 }
 
 fn hello() {
-	println!("Hello, world!");
+	println!("Hello, Rust!");
 
 }
 
